@@ -94,3 +94,19 @@ hs_err_pid*
 replay_pid*
 
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
+
+
+# ==== 우리가 개인적으로 추가한 것들 ====
+.classpath
+.gitignore
+# 부트스트랩,제이쿼리,통계 등등 자료 폴더임
+/Final_project/src/main/webapp/resources
+
+# 패키지들임
+/Final_project/src/main/java/com/fproj/common
+/Final_project/src/main/java/com/fproj
+
+/Final_project/src/main/webapp/WEB-INF/web.xml
+/Final_project/src/main/webapp/WEB-INF/spring/root-context.xml
+/Final_project/src/main/webapp/WEB-INF/spring/appServlet/servlet-context.xml
+/Final_project/pom.xml
