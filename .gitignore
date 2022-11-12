@@ -104,7 +104,6 @@ replay_pid*
 /Final_gukmo/src/main/webapp/resources
 
 # 패키지들임
-/Final_gukmo/src/main/java/com/gukmo/board 
 /Final_gukmo/src/main/java/com/gukmo/common
 
 # xml 관련 자료들임
